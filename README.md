@@ -1,6 +1,6 @@
 # Drone Delivery
 
-[![CodeScene Code Health](https://codescene.io/projects/17906/status-badges/code-health)](https://codescene.io/projects/17906)
+[![CodeScene Code Health](https://codescene.io/projects/17906/status-badges/code-health)](https://codescene.io/projects/17906)]
 
 ## Getting Started
 
