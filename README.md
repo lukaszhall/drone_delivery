@@ -1,5 +1,7 @@
 # Drone Delivery
 
+[![CodeScene Code Health](https://codescene.io/projects/17906/status-badges/code-health)](https://codescene.io/projects/17906)
+
 ## Getting Started
 
 These instructions will get you up and running with this project on a single host
