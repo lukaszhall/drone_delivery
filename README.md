@@ -225,3 +225,8 @@ Average score  36.666668
 * Convert some IOC patterns to records to allow java iterop
 * Around the clock processing (currently designed on single day increments)
 
+# Flowchart
+```mermaid
+flowchart LR
+A[Hard] --> B(Round)
+```
